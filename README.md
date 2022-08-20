@@ -1,5 +1,5 @@
 - 👋 Ciao, I'm Fra.
-- 📫 How to reach me: francesco@izz.land
+- 📫 How to reach me: francesco@bakemono.space
 
 <!---
 bakemono-space/bakemono-space is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
